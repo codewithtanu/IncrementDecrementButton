@@ -1,2 +1,2 @@
 # IncrementDecrementButton
- Increment Decrement Button Uisng JavaScript
+ Increment Decrement Button Using JavaScript
